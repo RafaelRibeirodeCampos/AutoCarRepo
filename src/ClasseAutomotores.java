@@ -2,7 +2,11 @@
 public class ClasseAutomotores {
 
 	public ClasseAutomotores() {
-		// TODO Auto-generated constructor stub
+		String corAt;
+		String marcaAt;
+		String modeloAt;
+		String tipoAt;
 	}
-
+	public ClasseAutomotores() {
+		
 }
