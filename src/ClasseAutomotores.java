@@ -7,6 +7,9 @@ public class ClasseAutomotores {
 		String modeloAt;
 		String tipoAt;
 	}
-	public ClasseAutomotores() {
-		
+	public ClasseAutomotores(String corPar, String marcaPar, String modeloPar, String tipoPar) {
+		corPar = corAt;
+		marcaPar = marcaAt;
+		modeloPar = modeloAt;
+	
 }
